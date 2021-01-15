@@ -2,7 +2,7 @@ import functools
 import operator
 from itertools import permutations
 f=open('Passs.txt','w+')
-c=input("enter the sentence")
+c=input("Enter the words which you want to combine")
 e=list(c.split())
 for a in range(1,6):
      comb = permutations(e,a)
