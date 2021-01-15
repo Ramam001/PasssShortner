@@ -1,0 +1,5 @@
+# Hackable
+for anything that is hackable
+I DO NOT TAKE ANY RESPONSIBILITY FOR ANY KIND OF USE
+YOU ARE COMPLETELY ON YOUR OWN
+
