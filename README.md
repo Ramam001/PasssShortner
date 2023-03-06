@@ -1,6 +1,14 @@
 # Hackable
 Just something for that is hackable
 
+IT creates CUstom list of password according to your prefrence
+
+Easy to use
+
+noob friendly
+
+no hacking or linux knowldge requried
+
 Requriment :- Python3
 
 Step 1 :- Python3 PasShortner.py
